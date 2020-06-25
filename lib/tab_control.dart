@@ -202,7 +202,7 @@ class _TabControlState extends State<TabControl>
                           padding: EdgeInsets.all(0.0),
                           textColor: Colors.white,
                           onPressed: () {
-                            launch("tel:+35989910353");
+                            launch("tel:+359899103537");
                           },
                           child: Icon(Icons.call, size: 40, ),
                         ),

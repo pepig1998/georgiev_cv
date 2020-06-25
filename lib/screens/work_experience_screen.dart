@@ -54,29 +54,7 @@ class _WorkExperienceScreenState extends State<WorkExperienceScreen> {
                                 fontWeight: FontWeight.bold),
                             children: <TextSpan>[
                               TextSpan(
-                                text: '05/2017–11/2017  \n',
-                                style: TextStyle(
-                                    color: Colors.blue,
-                                    fontSize: 20,
-                                    fontWeight: FontWeight.bold),
-                              ),
-                              TextSpan(
-                                  text: 'Grey Sector, Vratsa (Bulgaria)\n ',
-                                  style: TextStyle(color: Colors.black,
-                                    fontSize: 20,
-                                    fontWeight: FontWeight.bold,
-                                  )
-                              ),
-                              TextSpan(
-                                text: '- Electronics Technician',
-                                style: TextStyle(
-                                  color: Colors.black54,
-                                  fontSize: 20,
-                                  fontWeight: FontWeight.bold,
-                                ),
-                              ),
-                              TextSpan(
-                                  text: '\n \n\n 05/2018–09/2018 \n',
+                                  text: '05/2018–09/2018 \n',
                                   style: TextStyle(color: Colors.blue,
                                       fontSize: 20,
                                       fontWeight: FontWeight.bold)
@@ -136,7 +114,7 @@ class _WorkExperienceScreenState extends State<WorkExperienceScreen> {
                                   )
                               ),
                               TextSpan(
-                                text: ', Sofia (Bulgaria) (side job) ',
+                                text: ', Sofia (Bulgaria)(freelance) ',
                                 style: TextStyle(
                                   color: Colors.black,
                                   fontSize: 20,
@@ -145,6 +123,28 @@ class _WorkExperienceScreenState extends State<WorkExperienceScreen> {
                               ),
                               TextSpan(
                                 text: ' \n - Mobile Software Developer ',
+                                style: TextStyle(
+                                  color: Colors.black54,
+                                  fontSize: 20,
+                                  fontWeight: FontWeight.bold,
+                                ),
+                              ),
+                              TextSpan(
+                                text: '\n \n\n 11/2019–present  \n',
+                                style: TextStyle(
+                                    color: Colors.blue,
+                                    fontSize: 20,
+                                    fontWeight: FontWeight.bold),
+                              ),
+                              TextSpan(
+                                  text: 'Allterco Robotics, Sofia (Bulgaria)\n ',
+                                  style: TextStyle(color: Colors.black,
+                                    fontSize: 20,
+                                    fontWeight: FontWeight.bold,
+                                  )
+                              ),
+                              TextSpan(
+                                text: ' - Mobile Software Developer ',
                                 style: TextStyle(
                                   color: Colors.black54,
                                   fontSize: 20,
